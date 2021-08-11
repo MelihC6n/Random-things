@@ -1,0 +1,362 @@
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\Login.exe
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\Login.pdb
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\obj\Debug\Login.exe
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\obj\Debug\Login.pdb
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\obj\Debug\Login.KulllaniciArayüz.resources
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\obj\Debug\Login.Login.resources
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\obj\Debug\Login.OtelArayüz.resources
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\obj\Debug\Login.exe.licenses
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\obj\Debug\Login.r_konaklama.resources
+C:\Users\Emrah Tunç\source\repos\Otel Proje Formları\Login\Login\obj\Debug\Login.r_musterı_ekle.resources
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\obj\Debug\Login.exe
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\obj\Debug\Login.pdb
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\obj\Debug\Login.Login.resources
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\obj\Debug\Login.OtelArayüz.resources
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\obj\Debug\Login.r_musterı_ekle.resources
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\obj\Debug\Login.exe.licenses
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\Login.exe
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\Login.pdb
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\mscorlib.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\normidna.nlp
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\normnfc.nlp
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\normnfd.nlp
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\normnfkc.nlp
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\normnfkd.nlp
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\obj\Debug\Login.Konaklama.resources
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\obj\Debug\Login.odaicerik.resources
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\obj\Debug\Login.OdaServisi.resources
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\obj\Debug\Login.r_konaklama.resources
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\obj\Debug\Login.Oda_Durum.resources
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\obj\Debug\Login.Siparis_Ekle.resources
+C:\Users\Mustafa\Desktop\Otel Proje Formları\Login\Login\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.exe
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.pdb
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Login.exe
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Login.pdb
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\mscorlib.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\normidna.nlp
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\normnfc.nlp
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\normnfd.nlp
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\normnfkc.nlp
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\normnfkd.nlp
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Oda_Durum.resources
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Siparis_Ekle.resources
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Login.resources
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Konaklama.resources
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.odaicerik.resources
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.OdaServisi.resources
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.OtelArayüz.resources
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.r_musterı_ekle.resources
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.exe.licenses
+C:\Users\Mustafa\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\WindowsFormsApplication2.r_konaklama.resources
+G:\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+G:\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Konaklama.resources
+G:\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Oda_Durum.resources
+G:\Proje - Otel Otomasyonu\Login\Login\obj\Debug\WindowsFormsApplication2.r_konaklama.resources
+G:\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Siparis_Ekle.resources
+G:\Proje - Otel Otomasyonu\Login\Login\obj\Debug\WindowsFormsApplication2.Form1.resources
+G:\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Login.resources
+G:\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.odaicerik.resources
+G:\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.OdaServisi.resources
+G:\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.OtelArayüz.resources
+G:\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Properties.Resources.resources
+G:\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.r_musterı_ekle.resources
+G:\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+G:\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.exe.licenses
+G:\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+G:\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.exe
+G:\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.pdb
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Login.exe.config
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Login.exe
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Login.pdb
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Data.v18.2.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Utils.v18.2.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Data.v18.2.xml
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Utils.v18.2.xml
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Login.exe.config
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Login.exe
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Login.pdb
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Oda_Durum.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Login.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.odaicerik.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.OtelArayüz.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.r_musterı_ekle.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.exe.licenses
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.exe
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.pdb
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.OdaSiparis.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.UrunEkle.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Konaklamalar.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Profiller.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.Drawer.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.Drawer.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Rezervasyon.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.Core.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.exe.config
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.r_konak.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.RezRapor.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Resepsiyon.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.KatHizmetleri.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.csproj.ResolveComReference.cache
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Rez_Sil.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.rez_tikla.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Personel.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Odalar.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Istatistikler.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.YoneticiPanel.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Hatirlatmaekle.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Admin.resources
+C:\Users\melih\Desktop\Proje - Otel Otomasyonu\Login\Login\obj\Debug\Login.Log.resources
